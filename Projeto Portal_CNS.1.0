@@ -1,0 +1,14 @@
+O projeto foi desenvolvido em MVC C#  e o banco de dados no MySql.
+Em breve se der certo subirei um novo com algumas atualizações, sendo elas as seguintes :
+   
+
+	•	Importar as informações do site do gideão para o do Lucas;
+	•	Criar usuário e senha para as 41 igrejas;
+	•	 Distribuição dos usuários até a reunião de Itapevi ser marcada ( entre final de janeiro e começo de fevereiro);
+	•	Implantar código de barras no site;
+	•	Criar uma data específica para gerar um relatório de controle de estoque automático para alertar o setor de compras;
+	•	Ter um campo para declarar item que tem no estoque;
+	•	Criar um certo bloqueio para alguns produtos que não podem ser visíveis para as igrejas que farão os pedidos;
+	•	Travar solicitação de quantidade de alguns itens;
+	•	Após a finalização do pedido, o sistema deverá exibir uma lista com os itens solicitados.
+
